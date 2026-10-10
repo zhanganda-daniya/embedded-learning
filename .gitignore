@@ -1,0 +1,17 @@
+# 编译产物
+bin/
+build/
+*.o
+*.obj
+*.out
+*.exe
+a.out
+*.d
+
+# 编辑器
+.vscode/
+*.swp
+*~
+
+# 日志
+*.log
